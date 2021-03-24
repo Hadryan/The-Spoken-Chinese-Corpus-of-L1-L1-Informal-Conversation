@@ -18,4 +18,4 @@ FILES IN THIS DOWNLOAD
 
 ### VERSION HISTORY
 
-* Version 1.1 - the spoken L1 corpus release as downloadable text files in March 2021
+* Version 1.0 - the spoken L1 corpus release as downloadable text files in March 2021
