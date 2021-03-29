@@ -14,7 +14,7 @@ FILES IN THIS DOWNLOAD
 
 * the spoken Chinese corpus transcription scheme. pdf
   * transcription guidelines
-* Licence
+* License
 
 ### VERSION HISTORY
 
